@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Sagar Tamang..");
+	printf("New");
 	return 0;
 }
